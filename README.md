@@ -1,20 +1,34 @@
-# Profile info
+<p align="center">
+  <h3 align="center">Hi 👋, I'm Ciro</h3>
+</p>
+<p align="center">
+    <a href="https://cirofabianbermudez.github.io/">About Me</a>
+    ·
+    <a href="mailto:cirofabian.bermudez@gmail.com">Email</a>
+    ·
+    <a href="https://mx.linkedin.com/in/ciro-fabian-bermudez-marquez-a93096227/">LinkedIn</a>
+</p>
+<p align="center">
+  <h4 align="center">Electronic engineer from Puebla, México</h4>
+</p>
+
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=cirofabianbermudez&color=blue&style=flat-square" alt="cirofabianbermudez profile views" />
+</p>
+
+- 🔭 I’m currently working on **[INAOE](https://www.inaoep.mx/)**
+- 🌱 I’m currently learning **Embedded chaotic oscillators, Data Science, Cryptography**
+- 💬 Ask me about **MATLAB, Python, VHDL, Electronic Circuits**
+- 📫 How to reach me: @CiroBermudez
+- ⚡ Fun fact: I like to sleep, but I rarely do.
 
 <!--
 **cirofabianbermudez/cirofabianbermudez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-- Ciro Fabian Bermudez Marquez
-- Electronic engineer 
-- Python, C, MATLAB, LTspice, VHDL
