@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **Embedded chaotic oscillators, Data Science, Cryptography, IC**
 - 💬 Ask me about **C, C++, MATLAB, Python, Verilog, VHDL, Electronic Circuits**
 - 📫 How to reach me: @CiroBermudez
-- ⚡ Fun fact: I like Heavysaurios.
+- ⚡ Fun fact: I like to listen to heavy metal while I program.
 
 <!--
 **cirofabianbermudez/cirofabianbermudez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
