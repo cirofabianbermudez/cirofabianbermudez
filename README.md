@@ -2,7 +2,7 @@
   <h3 align="center">Hi 👋, I'm Ciro</h3>
 </p>
 <p align="center">
-    <a href="https://cirofabianbermudez.github.io/">About Me</a>
+    <a href="https://cirofabianbermudez.github.io/">Web page</a>
     ·
     <a href="mailto:cirofabian.bermudez@gmail.com">Email</a>
     ·
