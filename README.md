@@ -17,10 +17,10 @@
 </p>
 
 - 🔭 I’m currently working on **[INAOE](https://www.inaoep.mx/)**
-- 🌱 I’m currently learning **Embedded chaotic oscillators, Data Science, Cryptography**
-- 💬 Ask me about **MATLAB, Python, VHDL, Electronic Circuits**
+- 🌱 I’m currently learning **Embedded chaotic oscillators, Data Science, Cryptography, IC**
+- 💬 Ask me about **C, C++, MATLAB, Python, Verilog, VHDL, Electronic Circuits**
 - 📫 How to reach me: @CiroBermudez
-- ⚡ Fun fact: I like to sleep, but I rarely do.
+- ⚡ Fun fact: I like Heavysaurios.
 
 <!--
 **cirofabianbermudez/cirofabianbermudez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
