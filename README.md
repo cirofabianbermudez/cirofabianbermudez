@@ -17,7 +17,7 @@
 </p>
 
 - 🔭 I’m currently working on **[INAOE](https://www.inaoep.mx/)**.
-- 🌱 I’m currently learning **IC design, Cryptography, Embedded chaotic systems and Rust programming language. **
+- 🌱 I’m currently learning **IC design, Cryptography, Embedded chaotic systems and Rust programming language.**
 - 💬 Ask me about **C, MATLAB, Python, Verilog, VHDL, Electronic Circuits.**
 - 📫 How to reach me: @CiroBermudez.
 - ⚡ Fun fact: I like to listen to heavy metal while I program.
