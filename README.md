@@ -16,10 +16,10 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=cirofabianbermudez&color=blue&style=flat-square" alt="cirofabianbermudez profile views" />
 </p>
 
-- 🔭 I’m currently working on **[INAOE](https://www.inaoep.mx/)**
-- 🌱 I’m currently learning **Embedded chaotic oscillators, Data Science, Cryptography, IC**
-- 💬 Ask me about **C, C++, MATLAB, Python, Verilog, VHDL, Electronic Circuits**
-- 📫 How to reach me: @CiroBermudez
+- 🔭 I’m currently working on **[INAOE](https://www.inaoep.mx/)**.
+- 🌱 I’m currently learning **Embedded chaotic oscillators, Data Science, Cryptography, IC design.**
+- 💬 Ask me about **C, C++, MATLAB, Python, Verilog, VHDL, Electronic Circuits.**
+- 📫 How to reach me: @CiroBermudez.
 - ⚡ Fun fact: I like to listen to heavy metal while I program.
 
 <!--
