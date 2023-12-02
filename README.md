@@ -16,7 +16,7 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=cirofabianbermudez&color=blue&style=flat-square" alt="cirofabianbermudez profile views" />
 </p>
 
-- 🌱 I’m currently learning **IC design, Cryptography, Embedded chaotic systems and Rust programming language.**
+- 🌱 I’m currently learning **IC design and FPGAs.**
 - 💬 Ask me about **C, MATLAB, Python, Verilog, VHDL, Electronic Circuits.**
 - 📫 How to reach me: @CiroBermudez.
 - ⚡ Fun fact: I like to listen to heavy metal while I program.
