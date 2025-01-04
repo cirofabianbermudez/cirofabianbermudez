@@ -42,10 +42,11 @@
 
 # VLSI
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cadence_Logo.svg" style="width:10%;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/AMD_Vivado_logo.svg" style="width:5%;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Synopsys_Logo.svg" style="width:10%;">
-  <img src="https://antmicro.com/blog/images/systemverilog.svg" style="width:10%;">
+    <img src="img/cadence-logo.svg" style="width:10%;">
+    <img src="img/synopsys-logo.svg" style="width:5%;">
+    <img src="img/vivado-logo" style="width:10%;">
+    <img src="img/sv-logo" style="width:10%;">
+    <img src="img/uvm-logo" style="width:10%;">
 </p>
 
 
